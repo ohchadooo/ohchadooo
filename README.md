@@ -1,4 +1,3 @@
-
 [![solved.ac stats](https://solvedac-readme-stats.vercel.app/api?handle={ohchadooo})](https://github.com/kookjd7759/solvedac-readme-stats)
 
 [![solved.ac stats](https://solvedac-readme-stats.vercel.app/api?handle={m00nding})](https://github.com/kookjd7759/solvedac-readme-stats)
