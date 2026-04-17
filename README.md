@@ -1,7 +1,7 @@
 
-https://solvedac-readme-stats.vercel.app/api?handle=ohchadooo&v=1&streak=true
+[![solved.ac stats]https://solvedac-readme-stats.vercel.app/api?handle=ohchadooo&v=1&streak=true]
 
-https://solvedac-readme-stats.vercel.app/api?handle=m00nding&v=1&streak=true
+[![solved.ac stats]https://solvedac-readme-stats.vercel.app/api?handle=m00nding&v=1&streak=true]
 
 <!--
 **ohchadooo/ohchadooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
